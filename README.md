@@ -1,7 +1,12 @@
-👋 Welcome to My GitHub Profile!
+<div align="center">
+
+👋 **Welcome to My GitHub Profile!**
 
 Hi, I'm Saurya chauhan, a Software Engineer and Full-Stack Developer focused on building scalable, cloud-integrated web applications.
 Based in Gwalior, India, with a strong foundation in data structures, algorithms, and system design, and hands-on experience through internships and high-impact projects.
+
+
+</div>
 
 🛠️ Tech Stack
 Languages:  Html, TalwindCSS, JavaScript, Python, MySQL, MongoDB, PHP
